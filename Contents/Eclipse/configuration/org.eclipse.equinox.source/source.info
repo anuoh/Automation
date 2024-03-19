@@ -1,0 +1,8 @@
+#encoding=UTF-8
+#version=1
+com.beust.jcommander.source,1.78.0,../../../../.p2/pool/plugins/com.beust.jcommander.source_1.78.0.jar,-1,false
+org.antlr.antlr4-runtime.source,4.7.1,../../../../.p2/pool/plugins/org.antlr.antlr4-runtime.source_4.7.1.jar,-1,false
+org.apache-extras.beanshell.bsh.source,2.0.0.b6,../../../../.p2/pool/plugins/org.apache-extras.beanshell.bsh.source_2.0.0.b6.jar,-1,false
+org.testng.source,7.4.0.r202105021533,../../../../.p2/pool/plugins/org.testng.source_7.4.0.r202105021533.jar,-1,false
+org.webjars.jquery.source,3.5.1,../../../../.p2/pool/plugins/org.webjars.jquery.source_3.5.1.jar,-1,false
+org.yaml.snakeyaml.source,1.21.0,../../../../.p2/pool/plugins/org.yaml.snakeyaml.source_1.21.0.jar,-1,false
